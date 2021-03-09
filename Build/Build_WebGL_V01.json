@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Djikstra_Production",
+"productName": "Djikstra_Development",
 "productVersion": "0.1",
 "dataUrl": "Build_WebGL_V01.data.unityweb",
 "wasmCodeUrl": "Build_WebGL_V01.wasm.code.unityweb",
